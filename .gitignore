@@ -1,0 +1,6 @@
+env
+.vercel
+*.git
+*.vscode
+test/
+docs/
